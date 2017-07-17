@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_short_description" label="Short description" language="en" table="x_144111_gratitude_table2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_short_description</element>
+            <help/>
+            <hint/>
+            <label>Short description</label>
+            <language>en</language>
+            <name>x_144111_gratitude_table2</name>
+            <plural>Short descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-14 04:09:53</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>b78a54c0dbc003009daf712ebf961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short description</sys_name>
+            <sys_package display_value="Gratitude" source="x_144111_gratitude">7a11c3e3db3732009daf712ebf9619cc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Gratitude">7a11c3e3db3732009daf712ebf9619cc</sys_scope>
+            <sys_update_name>sys_documentation_x_144111_gratitude_table2_u_short_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-14 04:09:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

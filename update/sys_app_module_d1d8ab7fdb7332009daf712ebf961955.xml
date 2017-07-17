@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="table2">d1d82f3fdb7332009daf712ebf9619ea</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>table2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_144111_gratitude_table2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_144111_gratitude.table2_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-14 00:32:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d1d8ab7fdb7332009daf712ebf961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gratitude" source="x_144111_gratitude">7a11c3e3db3732009daf712ebf9619cc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Gratitude">7a11c3e3db3732009daf712ebf9619cc</sys_scope>
+        <sys_update_name>sys_app_module_d1d8ab7fdb7332009daf712ebf961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-14 00:32:37</sys_updated_on>
+        <timeline_page/>
+        <title>table2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

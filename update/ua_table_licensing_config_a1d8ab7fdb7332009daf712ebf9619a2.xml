@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_144111_gratitude_table2</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-14 00:32:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a1d8ab7fdb7332009daf712ebf9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_144111_gratitude_table2</sys_name>
+        <sys_package display_value="Gratitude" source="x_144111_gratitude">7a11c3e3db3732009daf712ebf9619cc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Gratitude">7a11c3e3db3732009daf712ebf9619cc</sys_scope>
+        <sys_update_name>ua_table_licensing_config_a1d8ab7fdb7332009daf712ebf9619a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-14 00:32:39</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

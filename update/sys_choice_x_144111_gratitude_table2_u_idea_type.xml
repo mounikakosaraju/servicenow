@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_idea_type" table="x_144111_gratitude_table2" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Savings</label>
+            <language>en</language>
+            <name>x_144111_gratitude_table2</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-14 04:16:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a91c1004dbc003009daf712ebf961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-14 04:16:34</sys_updated_on>
+            <value>Cost Savings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Improvement</label>
+            <language>en</language>
+            <name>x_144111_gratitude_table2</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-14 04:16:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>291c1004dbc003009daf712ebf961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-14 04:16:34</sys_updated_on>
+            <value>Process Improvement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Team Building</label>
+            <language>en</language>
+            <name>x_144111_gratitude_table2</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-14 04:16:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a11c1004dbc003009daf712ebf961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-14 04:16:34</sys_updated_on>
+            <value>Team Building</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_idea_type</element>
+            <name>x_144111_gratitude_table2</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-14 04:16:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e11c1004dbc003009daf712ebf961947</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_idea_type</sys_name>
+            <sys_package display_value="Gratitude" source="x_144111_gratitude">7a11c3e3db3732009daf712ebf9619cc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Gratitude">7a11c3e3db3732009daf712ebf9619cc</sys_scope>
+            <sys_update_name>sys_choice_x_144111_gratitude_table2_u_idea_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-14 04:16:34</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
